@@ -22,12 +22,20 @@ React 18 • TypeScript • Tailwind CSS • Create React App
 
 ## 🏃 Quick Start
 
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > 51463964deec06bc6bfecf79e73661c4a64e4ddc
+
 ```bash
 git clone https://github.com/O-Kornilova/theme-switcher-component.git
 cd theme-switcher-component
 npm install
 npm start
 ```
+
+<<<<<<< HEAD
 
 Open [http://localhost:3000](http://localhost:3000)
 
@@ -63,5 +71,3 @@ src/
 MIT
 
 ---
-
-⭐ Star if helpful!
