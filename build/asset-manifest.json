@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-womapp-header/static/css/main.8d47cb2b.css",
+    "main.js": "/test-womapp-header/static/js/main.41726901.js",
+    "index.html": "/test-womapp-header/index.html",
+    "main.8d47cb2b.css.map": "/test-womapp-header/static/css/main.8d47cb2b.css.map",
+    "main.41726901.js.map": "/test-womapp-header/static/js/main.41726901.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d47cb2b.css",
+    "static/js/main.41726901.js"
+  ]
+}
