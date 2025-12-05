@@ -9,7 +9,7 @@ export const MainContent = () => {
         Acceptance Criteria (AC)
       </h2>
 
-      <div className='text-base bg-transparent font-roboto leading-[1.5] dark:text-light'>
+      <div className='text-xl sm:text-base bg-transparent font-roboto leading-[1.5] dark:text-light'>
         <p>
           We want to evaluate your attention to UI details, component structure,
           and CSS skills. We <br /> are not testing complex global state
