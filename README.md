@@ -1,85 +1,67 @@
-# Womapp Header Task
+markdown# 🌓 Theme Switcher Component
 
-This project implements the task using React, TypeScript, and Tailwind CSS.
+Modern React app with custom animated theme toggle built with TypeScript and Tailwind CSS.
 
-## Implemented
+[![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-3.3.6-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 
-### 🧱 Layout & Responsive Design
+## 🚀 [Live Demo](https://your-app-name.vercel.app)
 
-- Fully responsive layout for mobile (starting from 320px) and desktop.
-- Header and main text block implemented exactly as per the design.
+## ✨ Features
 
-### 🎨 Visual Elements
+- Custom animated theme switcher
+- Dark/Light mode with localStorage
+- Fully responsive (320px+)
+- Glassmorphism UI effects
+- Feature-Sliced Design architecture
 
-- Logo, buttons, and burger menu styled according to the UI guidelines.
-- Visual implementation of the burger menu without open/close logic.
+## 🛠️ Tech Stack
 
-### 🌗 Theme Switcher
+React 18 • TypeScript • Tailwind CSS • Create React App
 
-- Custom theme switcher with smooth animation.
-- Theme toggling implemented without applying global style changes.
+## 🏃 Quick Start
 
-### ✨ Interactivity
+```bash
+git clone https://github.com/O-Kornilova/theme-switcher-component.git
+cd theme-switcher-component
+npm install
+npm start
+```
 
-- Buttons and links include styles for `hover` and `active` states.
+Open [http://localhost:3000](http://localhost:3000)
 
-### ⚙️ Tech Stack
+## 📦 Build
 
-- **React**, **TypeScript**
-- **Tailwind CSS**
-- Clean component structure and readable code
+```bash
+npm run build
+```
 
-## Project Structure
+## 🌐 Deploy to Vercel
+
+```bash
+vercel
+```
+
+Or push to GitHub and import on [vercel.com](https://vercel.com)
+
+## 📁 Structure
 
 ```
 src/
-├── components/
-│   ├── Header/
-│   ├── TextBlock/
-│   └── ThemeSwitcher/
-├── Icons/
-├── hooks/
-│   └── useTheme.tsx
-├── styles/
-│   └── index.css
-├── App.tsx
-└── index.tsx
+├── app/              # Entry point
+├── features/layout/  # Layout components & hooks
+└── shared/           # Reusable UI & icons
 ```
 
+## 👤 Author
 
-## Getting Started
+**Oleksandra Kornilova** • [GitHub](https://github.com/O-Kornilova)
 
-### 1. Clone the repository
-```bash
-git clone https://your-repo-url.git
-cd womapp-header
-```
+## 📄 License
 
-### 2. Install dependencies
-```bash
-npm install
-# or
-yarn
-```
+MIT
 
-### 3. Start the development server
-```bash
-npm run dev
-# or
-yarn dev
-```
+---
 
-### 4. Build for production
-```bash
-npm run build
-# or
-yarn build
-```
-
-### 5. Run tests
-```bash
-npm run test
-# or
-yarn test
-```
-
+⭐ Star if helpful!
